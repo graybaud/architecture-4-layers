@@ -145,8 +145,8 @@ python -m pytest example/tests/ -v
 
 ## Real-world usage
 
-- [CastNet v2](https://github.com/graybaud/castnet) — Sparse LLM inference (203 tests, 23 strategies)
-- [APL Pruning Lab](https://github.com/graybaud/apl-pruning-lab) — Mini APL DSL (116 tests, 62 formulas)
+- [CastNet v2](https://github.com/graybaud/castnet) — Sparse LLM inference
+- [APL Pruning Lab](https://github.com/graybaud/apl-pruning-lab) — Mini APL DSL
 
 ## License
 
